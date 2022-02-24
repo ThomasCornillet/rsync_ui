@@ -1,0 +1,11 @@
+/archives/
+/Excludes/
+/Logs/
+/tests/
+/dernieres_commandes.sauv
+
+# eclipse specific git ignore
+/.settings/
+/.metadata/
+/.project
+/.pydevproject
